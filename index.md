@@ -1,4 +1,4 @@
-# J's Homepage
+# my homepage
 welcome to my github website!
 here i try to do things called operating systems
 ## Projects
