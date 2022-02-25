@@ -6,4 +6,4 @@ here i try to do things called operating systems
 ### OS
 i call it JvmOS(Java virtual machine Operating System)
 
-.[i hope you enjoy!](memz100.github.io/JvmOS/)
+.[i hope you enjoy!](/JvmOS/)
