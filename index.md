@@ -1,5 +1,9 @@
-## Hi!
-welcome to my github!
+# J's Homepage
+welcome to my github website!
 here i try to do things called operating systems
-## OS
+## Projects
+
+### OS
 i call it JvmOS(Java virtual machine Operating System)
+
+i hope you enjoy!
