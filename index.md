@@ -8,8 +8,8 @@ i call it JvmOS(Java virtual machine Operating System)
 
 .[i hope you enjoy!](https://github.io/memz100/JvmOS)
 link is broken so: 
-### CURRENT VERSION
-JvmOS 1.25
+### CURRENT VERSION: 
+**JvmOS 1.25**
 ```
 package ar;
 import java.util.Scanner;
