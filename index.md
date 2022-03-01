@@ -20,7 +20,7 @@ link is broken so:
 <details open>
 <summary>JvmOS 1.25</summary>
 <br>
-	
+
 	package ar;
 	import java.util.Scanner;
 	import java.util.concurrent.TimeUnit;
