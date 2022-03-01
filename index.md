@@ -21,7 +21,7 @@ link is broken so:
 <summary>JvmOS 1.25</summary>
 <br>
 
-	
+```	
 	package ar;
 	import java.util.Scanner;
 	import java.util.concurrent.TimeUnit;
@@ -142,4 +142,5 @@ link is broken so:
 	 }
 	
 	}
+```
 </details>
