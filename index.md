@@ -9,19 +9,23 @@ i call it JvmOS(Java virtual machine Operating System)
 .[i hope you enjoy!](https://github.io/memz100/JvmOS)
 link is broken so: 
 ### CURRENT VERSION: 
-**JvmOS 1.25**
-```
-package ar;
-import java.util.Scanner;
-import java.util.concurrent.TimeUnit;
-import java.io.IOException;
-import java.net.URI;
-import java.net.URISyntaxException;
-import java.util.Calendar;
-import java.time.format.DateTimeFormatter;  
-import java.time.LocalDateTime;
-public class Ar1 {
-public static void main(String[]args) throws IOException, URISyntaxException, InterruptedException{
+**JvmOS**
+<details open>
+<summary>JvmOS 1.25</summary>
+<br>
+
+	
+	package ar;
+	import java.util.Scanner;
+	import java.util.concurrent.TimeUnit;
+	import java.io.IOException;
+	import java.net.URI;
+	import java.net.URISyntaxException;
+	import java.util.Calendar;
+	import java.time.format.DateTimeFormatter;  
+	import java.time.LocalDateTime;
+	public class Ar1 {
+	public static void main(String[]args) throws IOException, URISyntaxException, InterruptedException{
 	Scanner input = new Scanner(System.in);
 	Calendar calendar = Calendar.getInstance();
 	String jj = "";
@@ -131,4 +135,4 @@ public static void main(String[]args) throws IOException, URISyntaxException, In
 	 }
 	
 }
-```
+</details>
