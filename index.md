@@ -40,24 +40,6 @@ public static void main(String[]args) throws IOException, URISyntaxException, In
 	   LocalDateTime now = LocalDateTime.now(); <br/><br/>
 	System.out.println("JvmOS v1.2.5");<br/>
 	TimeUnit.SECONDS.sleep(1);<br/>
-	System.out.print("\r\n"<br/>
-			+ "                                                                    \r\n" <br/>
-			+ "         ,---._                               ,----..               \r\n" <br/>
-			+ "       .-- -.' \\                    ____     /   /   \\   .--.--.    \r\n" <br/>
-			+ "       |    |   :                 ,'  , `.  /   .     : /  /    '.  \r\n" <br/>
-			+ "       :    ;   |              ,-+-,.' _ | .   /   ;.  \\  :  /`. /  \r\n" <br/>
-			+ "       :        |    .---.  ,-+-. ;   , ||.   ;   /  ` ;  |  |--`   \r\n" <br/>
-			+ "       |    :   :  /.  ./| ,--.'|'   |  ||;   |  ; \\ ; |  :  ;_     \r\n" <br/>
-			+ "       :         .-' . ' ||   |  ,', |  |,|   :  | ; | '\\  \\    `.  \r\n" <br/>
-			+ "       |    ;   /___/ \\: ||   | /  | |--' .   |  ' ' ' : `----.   \\ \r\n" <br/>
-			+ "   ___ l        .   \\  ' .|   : |  | ,    '   ;  \\; /  | __ \\  \\  | \r\n" <br/>
-	    	+ " /    /\\    J   :\\   \\   '|   : |  |/      \\   \\  ',  / /  /`--'  / \r\n" <br/>
-			+ "/  ../  `..-    , \\   \\   |   | |`-'        ;   :    / '--'.     /  \r\n" <br/>
-			+ "\\    \\         ;   \\   \\ ||   ;/             \\   \\ .'    `--'---'   \r\n" <br/>
-			+ " \\    \\      ,'     '---\" '---'               `---`                 \r\n" <br/>
-			+ "  \"---....--'                                                       \r\n" <br/>
-			+ "                                                                    \r\n" <br/>
-			+ "");<br/>
 	String command = ""; <br/>
 	String tempnote = "";<br/>
 	while(command.equals("")) {<br/>
