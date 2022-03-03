@@ -67,17 +67,10 @@ public static void main(String[]args) throws IOException, URISyntaxException, In
 		if(command.equals("c/notepad1")) {<br/>
 			System.out.println(notepad1);<br/>
 		}<br/>
-		if(command.equals("c/whyDidYouKillHim")) {<br/>
-			while(true) {<br/>
-				System.out.println("aSBkaWRudCBtZWFuIHRvLCBpdCB3YXMgTk9UIE1ZIEZBVUxUIQ==");<br/>
-				System.out.println("15 Jan 1984");<br/>
-			}<br/>
-		}<br/>
+
+
 			if(command.equals("about")) {<br/>
-				System.out.println("System: Java virtual machine Operating System");<br/>
-				System.out.println("processor: Java Virtual Augmentation core 4004 740 kHZ");<br/>
-				System.out.println("memory: 52k DRAM");<br/>
-				System.out.println("disk: 2 GB HD");<br/>
+
 		}<br/>
 			if(command.equals("calc")) {<br/>
 				int n1;<br/>
