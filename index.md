@@ -67,8 +67,6 @@ public static void main(String[]args) throws IOException, URISyntaxException, In
 		if(command.equals("c/notepad1")) {<br/>
 			System.out.println(notepad1);<br/>
 		}<br/>
-
-
 			if(command.equals("about")) {<br/>
 
 		}<br/>
