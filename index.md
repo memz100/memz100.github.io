@@ -37,7 +37,7 @@ public static void main(String[]args) throws IOException, URISyntaxException, In
 	String jj = "";<br/>
 	String notepad1 = "haha you lookin at de code here, get out";<br/>
 	DateTimeFormatter dtf = DateTimeFormatter.ofPattern("yyyy/MM/dd HH:mm:ss");  <br/>
-	   LocalDateTime now = LocalDateTime.now(); <br/><br/>
+	   LocalDateTime now = LocalDateTime.now(); <br/>
 	System.out.println("JvmOS v1.2.5");<br/>
 	TimeUnit.SECONDS.sleep(1);<br/>
 	String command = ""; <br/>
@@ -70,34 +70,34 @@ public static void main(String[]args) throws IOException, URISyntaxException, In
 			if(command.equals("about")) {<br/>
 
 		}<br/>
-			if(command.equals("calc")) {<br/>
-				int n1;<br/>
-				System.out.println("calc 1.0: please insert 1st number");<br/>
-				n1=input.nextInt();<br/>
-				System.out.println("please input your second number");<br/>
-				int n2;<br/>
-				n2=input.nextInt();<br/>
-				System.out.println("what operation? +,-,*,/!");<br/>
-				String op;<br/>
-				op=input.next();<br/>
-				if(op.equals("+")) {<br/>
-					System.out.println(n1+n2);<br/>
-				}<br/>
-				if(op.equals("-")) {<br/>
-					System.out.println(n1-n2);<br/>
-				}<br/>
-				if(op.equals("*")) {<br/>
-					System.out.println(n1*n2);<br/>
-				}<br/>
-				if(op.equals("/")) {<br/>
-					System.out.println(n1/n2);<br/>
-				}<br/>
-				}<br/>
-			if(command.equals("web")) {<br/>
-				System.out.println("Please Wait while we set up the browser...");<br/>			
-				URI uri= new URI("https://www.google.com");<br/>
-				java.awt.Desktop.getDesktop().browse(uri);<br/>
-			}<br/>
+		if(command.equals("calc")) {<br/>
+		int n1;<br/>
+		System.out.println("calc 1.0: please insert 1st number");<br/>
+		n1=input.nextInt();<br/>
+		System.out.println("please input your second number");<br/>
+		int n2;<br/>
+		n2=input.nextInt();<br/>
+		System.out.println("what operation? +,-,*,/!");<br/>
+		String op;<br/>
+		op=input.next();<br/>
+		if(op.equals("+")) {<br/>
+			System.out.println(n1+n2);<br/>
+		}<br/>
+		if(op.equals("-")) {<br/>
+			System.out.println(n1-n2);<br/>
+		}<br/>
+		if(op.equals("*")) {<br/>
+			System.out.println(n1*n2);<br/>
+		}<br/>
+		if(op.equals("/")) {<br/>
+			System.out.println(n1/n2);<br/>
+		}<br/>
+		}<br/>
+		if(command.equals("web")) {<br/>
+		System.out.println("Please Wait while we set up the browser...");<br/>			
+		URI uri= new URI("https://www.google.com");<br/>
+		java.awt.Desktop.getDesktop().browse(uri);<br/>
+		}<br/>
 			String close = "";<br/>
 			if(command.equals("close")) {<br/>
 				close = "gottem";<br/>
