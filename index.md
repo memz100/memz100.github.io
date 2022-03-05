@@ -6,7 +6,11 @@ me? im just a guy named Justin
 from PA
 
 </details>
-
+<details><summary>credits</summary>
+	
+Justin: founder<br/>
+Olivia: co-founder
+</details>
 here i try to do things called operating systems
 ## Projects
 
