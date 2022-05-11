@@ -18,6 +18,8 @@ link is broken so:
 ### VERSIONS: 
 **JvmOS**
 <details open>
+	<summary>JvmDOS</summary>
+<details open>
 <summary>JvmOS 1.25</summary>
 <br>
 
@@ -216,3 +218,7 @@ public static void main(String[]args) throws IOException, URISyntaxException, In
 	 }<br/>
 <br/>	
 }<br/>	
+	</details>
+	<details open>
+		<summary>JvmOS ex.1.4 builds</summary>
+	</details>
